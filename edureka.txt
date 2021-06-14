@@ -1,3 +1,4 @@
 
 Hi, This is a session from Edureka on Git and Github!
-hello,everyone.I am Sumitra.
+How was your session?
+That is fine.
