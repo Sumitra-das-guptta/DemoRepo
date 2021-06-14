@@ -2,3 +2,4 @@
 Hi, This is a session from Edureka on Git and Github!
 How was your session?
 That is fine.
+Adding a new line in rebase branch
